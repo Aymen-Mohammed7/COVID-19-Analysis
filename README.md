@@ -61,7 +61,7 @@ An interactive, two-page report was developed to explore the data:
 - **Details Page (Country Drill-Through)**: Provides a detailed view for a selected country, including case progression over time, year-over-year comparisons, and a monthly data summary
 - **Side Panel**: Contains a list of countries to choose from and go to **Country Page**, and filters for dynamic exploration
 
-Dashboard Preview
+**Dashboard Preview**  
 Main Page:
 ![Main Page Screenshot](powerbi/Main-page.png)
 
