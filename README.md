@@ -106,7 +106,7 @@ This project is licensed under the [MIT License](LICENSE)
 
 ---
 
-## About Me
+## Author
 
 **Aymen Mohammed** — Data Analyst passionate about using data to tell stories and drive business decisions.
 
