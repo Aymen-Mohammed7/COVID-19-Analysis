@@ -68,7 +68,7 @@ Main Page:
 Country Details Page:
 ![Country Page Screenshot](powerbi/Country-page.png)
 
-Power BI file: [Download from Google Drive](https://drive.google.com/file/d/1ioornkcXpJhp57h6ARvgJG-zXl2EuRDX/view?usp=sharing)
+Power BI file: ![COVID-19 Project](powerbi) or [Download from Google Drive](https://drive.google.com/file/d/1ioornkcXpJhp57h6ARvgJG-zXl2EuRDX/view?usp=sharing)
 
 ---
 
