@@ -52,7 +52,7 @@ This repository contains a comprehensive analysis of the global impact of the **
 
 ---
 
-## Power BI Dashboard
+## Dashboard & Visualizations
 
 An interactive, two-page report was developed to explore the data:
 
