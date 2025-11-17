@@ -111,5 +111,5 @@ This project is licensed under the [MIT License](LICENSE)
 **Aymen Mohammed** — Data Analyst passionate about using data to tell stories and drive business decisions.
 
  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white&style=flat)](https://aymenmohammed.netlify.app/)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aymen-mohammed-b1a646394)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-mohammed-b1a646394)
  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat)](https://github.com/Aymen-Mohammed7)
